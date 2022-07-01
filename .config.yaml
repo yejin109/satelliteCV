@@ -1,0 +1,14 @@
+num_classes: 21
+hidden_layer: 2
+batch_size: 16
+lr: 0.01
+weight_decay: 0.9
+epochs: 50
+
+raw_size: 1024
+post_size: 224
+
+train_size: 1500
+val_size: 124
+test_size: 124
+
